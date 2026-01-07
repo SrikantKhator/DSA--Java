@@ -17,7 +17,9 @@ Problems are organized **topic-wise** for easy navigation and revision.
 │ ├── RemoveDuplicates.java
 │ └── LinearSearch.java
 ├── README.md
-└── .gitignore```
+└── .gitignore
+```
+
 
 
 ---
