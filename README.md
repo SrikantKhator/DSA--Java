@@ -9,7 +9,7 @@ All solutions are written in a **clean, function-based format**, focusing on **l
 
 Problems are organized **topic-wise** for easy navigation and revision.
 
-(((DSA-Java/
+```DSA-Java/
 ├── Arrays/
 │ ├── LargestElement.java
 │ ├── SecondLargestElement.java
@@ -17,7 +17,7 @@ Problems are organized **topic-wise** for easy navigation and revision.
 │ ├── RemoveDuplicates.java
 │ └── LinearSearch.java
 ├── README.md
-└── .gitignore)))
+└── .gitignore```
 
 
 ---
