@@ -1,6 +1,6 @@
 # DSA in Java 🚀
 
-This repository contains my **Data Structures and Algorithms (DSA)** practice implemented in **Java**.
+This repository contains my **Data Structures and Algorithms (DSA)** practice implemented in **Java**.  
 All solutions are written in a **clean, function-based format**, focusing on **logic and optimal approaches** suitable for coding interviews.
 
 ---
@@ -9,49 +9,56 @@ All solutions are written in a **clean, function-based format**, focusing on **l
 
 Problems are organized **topic-wise** for easy navigation and revision.
 
-```DSA-Java/
+```text
+DSA-Java/
 ├── Arrays/
-│ ├── LargestElement.java
-│ ├── SecondLargestElement.java
-│ ├── CheckIfArraySorted.java
-│ ├── RemoveDuplicates.java
-│ └── LinearSearch.java
+│   ├── LargestElement.java
+│   ├── SecondLargestElement.java
+│   ├── CheckIfArraySorted.java
+│   ├── RemoveDuplicates.java
+│   ├── LinearSearch.java
+│   ├── LeftRotateArray.java
+│   └── README.md
 ├── README.md
 └── .gitignore
-```
 
+📌 Topics Covered
+Arrays
 
+Find Largest Element in an Array
 
----
+Find Second Largest Element in an Array
 
-## 📌 Topics Covered
+Check if an Array is Sorted (Non-decreasing Order)
 
-### Arrays
-- Find Largest Element in an Array
-- Find Second Largest Element in an Array
-- Check if an Array is Sorted (Non-decreasing Order)
-- Remove Duplicates from a Sorted Array
-- Linear Search
+Remove Duplicates from a Sorted Array
 
----
+Linear Search
 
-## 🧠 Coding Principles Followed
-- Core logic only (no input/output code)
-- Function-based implementations
-- Interview-oriented coding style
-- Optimal time and space complexity
+Left Rotate Array by One Place
 
----
+🧠 Coding Principles Followed
 
-## 📚 Learning Source
-- Striver A2Z DSA Sheet
+Core logic only (no input/output code)
 
----
+Function-based implementations
 
-## 🎯 Goal
+Interview-oriented coding style
+
+Optimal time and space complexity
+
+Proper edge-case handling
+
+📚 Learning Source
+
+Striver A2Z DSA Sheet
+
+🎯 Goal
+
 To build a strong DSA foundation and prepare for technical interviews at top product-based companies.
 
----
+🔄 Progress Tracking
 
-## 🔄 Progress Tracking
-- Day 1: Array Basics ✅
+Day 1: Array Basics ✅
+
+Day 2: Array Rotation (Left Rotate by 1) ✅
