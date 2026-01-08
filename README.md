@@ -20,43 +20,39 @@ DSA-Java/
 ├── README.md
 └── .gitignore
 ```
-📌 Topics Covered
-Arrays
+---
 
-Find Largest Element in an Array
+## 📌 Topics Covered
 
-Find Second Largest Element in an Array
+### Arrays
+- Find Largest Element in an Array
+- Find Second Largest Element in an Array
+- Check if an Array is Sorted (Non-decreasing Order)
+- Remove Duplicates from a Sorted Array
+- Linear Search
+- Left Rotate Array by One Place
 
-Check if an Array is Sorted (Non-decreasing Order)
+---
 
-Remove Duplicates from a Sorted Array
+## 🧠 Coding Principles Followed
+- Core logic only (no input/output code)
+- Function-based implementations
+- Interview-oriented coding style
+- Optimal time and space complexity
+- Proper edge-case handling
 
-Linear Search
+---
 
-Left Rotate Array by One Place
+## 📚 Learning Source
+- Striver A2Z DSA Sheet
 
-🧠 Coding Principles Followed
+---
 
-Core logic only (no input/output code)
-
-Function-based implementations
-
-Interview-oriented coding style
-
-Optimal time and space complexity
-
-Proper edge-case handling
-
-📚 Learning Source
-
-Striver A2Z DSA Sheet
-
-🎯 Goal
-
+## 🎯 Goal
 To build a strong DSA foundation and prepare for technical interviews at top product-based companies.
 
-🔄 Progress Tracking
+---
 
-Day 1: Array Basics ✅
-
-Day 2: Array Rotation (Left Rotate by 1) ✅
+## 🔄 Progress Tracking
+- Day 1: Array Basics ✅
+- Day 2: Array Rotation (Left Rotate by 1) ✅
