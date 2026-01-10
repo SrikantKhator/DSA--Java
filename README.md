@@ -47,6 +47,7 @@ DSA-Java/
 - Striver A2Z DSA Sheet
 ---
 ## 🎯 Goal
+
 To build a strong DSA foundation and prepare for technical interviews through consistent and structured practice.
 ---
 ## 📈 Status
