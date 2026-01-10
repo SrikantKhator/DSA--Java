@@ -6,7 +6,7 @@ All solutions are written with a strong focus on **core logic, optimal approache
 The repository is structured topic-wise to enable **systematic learning, easy navigation, and long-term scalability**.
 
 ---
----
+
 
 ## 📂 Repository Structure
 
@@ -33,6 +33,7 @@ DSA-Java/
 └── .gitignore
 
 ```
+---
 ## 🧠 Coding Principles Followed
 
 - Clean and readable Java code
@@ -41,13 +42,13 @@ DSA-Java/
 - I nterview-oriented problem solving
 - Optimal time and space complexity
 - Proper edge-case handling
-
+---
 ## 📚 Learning Resources
 - Striver A2Z DSA Sheet
 ---
 ## 🎯 Goal
 To build a strong DSA foundation and prepare for technical interviews through consistent and structured practice.
-
+---
 ## 📈 Status
 - Actively practicing Arrays
 - Gradually expanding into advanced DSA topics
