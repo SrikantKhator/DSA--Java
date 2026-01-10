@@ -1,58 +1,73 @@
 # DSA in Java 🚀
 
 This repository contains my **Data Structures and Algorithms (DSA)** practice implemented in **Java**.  
-All solutions are written in a **clean, function-based format**, focusing on **logic and optimal approaches** suitable for coding interviews.
+All solutions are written with a strong focus on **core logic, optimal approaches, and interview readiness**.
 
+The repository is structured topic-wise to allow **systematic learning, easy navigation, and long-term scalability**.
+
+---
 ---
 
 ## 📂 Repository Structure
 
 ```text
+---
 DSA-Java/
-├── Arrays/
-│   ├── LargestElement.java
-│   ├── SecondLargestElement.java
-│   ├── CheckIfArraySorted.java
-│   ├── RemoveDuplicates.java
-│   ├── LinearSearch.java
-│   ├── LeftRotateArray.java
-│   └── README.md
+├── Arrays/                (Ongoing)
+├── Strings/
+├── Recursion/
+├── LinkedList/
+├── Stack-Queue/
+├── BinarySearch/
+├── Hashing/
+├── TwoPointers/
+├── SlidingWindow/
+├── Greedy/
+├── Trees/
+├── BinarySearchTrees/
+├── Heaps-PriorityQueue/
+├── Graphs/
+├── DynamicProgramming/
+├── BitManipulation/
 ├── README.md
 └── .gitignore
+
 ```
 ---
-
-## 📌 Topics Covered
-
-### Arrays
-- Find Largest Element in an Array
-- Find Second Largest Element in an Array
-- Check if an Array is Sorted (Non-decreasing Order)
-- Remove Duplicates from a Sorted Array
-- Linear Search
-- Left Rotate Array by One Place
-
+---
+📌 Currently, Arrays is being actively worked on.
+Other folders will be added as the learning progresses.
+---
 ---
 
-## 🧠 Coding Principles Followed
-- Core logic only (no input/output code)
-- Function-based implementations
-- Interview-oriented coding style
-- Optimal time and space complexity
-- Proper edge-case handling
+###🧠 Coding Principles Followed
 
+-Clean and readable Java code
+
+-Logic-first implementations
+
+-Function-based approach
+
+-Interview-oriented problem solving
+
+-Optimal time and space complexity
+
+-Proper edge-case handling
 ---
 
-## 📚 Learning Source
-- Striver A2Z DSA Sheet
+##📚 Learning Resources
 
+-Striver A2Z DSA Sheet
+---
+##🎯 Goal
+
+-To build a strong DSA foundation and prepare for technical interviews at top product-based companies through consistent and structured practice.
+---
 ---
 
-## 🎯 Goal
-To build a strong DSA foundation and prepare for technical interviews at top product-based companies.
+##📈 Status
 
+-Actively practicing Arrays
+
+-Gradually expanding into advanced DSA topics
 ---
-
-## 🔄 Progress Tracking
-- Day 1: Array Basics ✅
-- Day 2: Array Rotation (Left Rotate by 1) ✅
