@@ -49,7 +49,7 @@ DSA-Java/
 ## 🎯 Goal
 
 To build a strong DSA foundation and prepare for technical interviews through consistent and structured practice.
----
+
 ## 📈 Status
 - Actively practicing Arrays
 - Gradually expanding into advanced DSA topics
