@@ -3,7 +3,7 @@
 This repository contains my **Data Structures and Algorithms (DSA)** practice implemented in **Java**.  
 All solutions are written with a strong focus on **core logic, optimal approaches, and interview readiness**.
 
-The repository is structured topic-wise to allow **systematic learning, easy navigation, and long-term scalability**.
+The repository is structured topic-wise to enable **systematic learning, easy navigation, and long-term scalability**.
 
 ---
 ---
@@ -11,7 +11,7 @@ The repository is structured topic-wise to allow **systematic learning, easy nav
 ## 📂 Repository Structure
 
 ```text
----
+
 DSA-Java/
 ├── Arrays/                (Ongoing)
 ├── Strings/
@@ -33,41 +33,21 @@ DSA-Java/
 └── .gitignore
 
 ```
+## 🧠 Coding Principles Followed
+
+- Clean and readable Java code
+- Logic-first implementations
+- Function-based approach
+- I nterview-oriented problem solving
+- Optimal time and space complexity
+- Proper edge-case handling
+
+## 📚 Learning Resources
+- Striver A2Z DSA Sheet
 ---
----
-📌 Currently, Arrays is being actively worked on.
-Other folders will be added as the learning progresses.
----
----
+## 🎯 Goal
+To build a strong DSA foundation and prepare for technical interviews through consistent and structured practice.
 
-###🧠 Coding Principles Followed
-
--Clean and readable Java code
-
--Logic-first implementations
-
--Function-based approach
-
--Interview-oriented problem solving
-
--Optimal time and space complexity
-
--Proper edge-case handling
----
-
-##📚 Learning Resources
-
--Striver A2Z DSA Sheet
----
-##🎯 Goal
-
--To build a strong DSA foundation and prepare for technical interviews at top product-based companies through consistent and structured practice.
----
----
-
-##📈 Status
-
--Actively practicing Arrays
-
--Gradually expanding into advanced DSA topics
----
+## 📈 Status
+- Actively practicing Arrays
+- Gradually expanding into advanced DSA topics
